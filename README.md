@@ -7,7 +7,7 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 <details>
 <summary style="font-size: 1.2em">Arrays</summary>
 
-<blockquote>
+<div>
 
 <details>
 
@@ -21,5 +21,5 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 
 </details>
 
-</blockquote>
+</div>
 </details>
