@@ -7,6 +7,8 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 <details>
 <summary style="font-size: 1.2em">Arrays</summary>
 
+<blockquote>
+
 <details>
 
 <summary style="font-size: 1em">Day 1</summary>
@@ -19,4 +21,5 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 
 </details>
 
+</blockquote>
 </details>
