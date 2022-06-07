@@ -15,9 +15,9 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 
 | Sr  | [Problems](./Day%201/README.md)                                                                                   | TryIt                                                                                                                                  | Status |
 | --- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1  | [Set Matrix Zeroes](./Day%201/set-matrix-zeroes.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/set-matrix-zeroes/)                           | ❌     |
-| 2  | [Pascal's triangle](./Day%201/pascals-triangle.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pascals-triangle/)                           | ❌     |
-| 3  | [Next Permutation](./Day%201/next-permutation.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/next-permutation/)                           | ❌     |
+| 1  | [Set Matrix Zeroes](./Day%201/set-matrix-zeroes.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/set-matrix-zeroes/)                           | ✅     |
+| 2  | [Pascal's triangle](./Day%201/pascals-triangle.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/pascals-triangle/)                           | ✅     |
+| 3  | [Next Permutation](./Day%201/next-permutation.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/next-permutation/)                           | ✅     |
 
 </details>
 
