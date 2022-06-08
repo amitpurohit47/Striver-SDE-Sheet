@@ -22,4 +22,21 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 </details>
 
 </div>
+
+<div>
+
+<details>
+
+<summary style="font-size: 1em">Day 1</summary>
+
+| Sr  | [Problems](./Day%202/README.md)                                                                                   | TryIt                                                                                                                                  | Status |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1  | [Kadane’s Algorithm](./Day%202/kadane-algorithm.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/maximum-subarray/)                           | ✅     |
+| 2  | [Sort an array of 0’s 1’s 2’s](./Day%202/sort-array-of-0-1-2.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/sort-colors/)                           | ✅     |
+| 3  | [Stock buy and Sell](./Day%202/stock-buy-and-sell.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                           | ✅     |
+
+</details>
+
+</div>
+
 </details>
