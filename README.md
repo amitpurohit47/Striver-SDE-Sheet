@@ -27,7 +27,7 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 
 <details>
 
-<summary style="font-size: 1em">Day 1</summary>
+<summary style="font-size: 1em">Day 2</summary>
 
 | Sr  | [Problems](./Day%202/README.md)                                                                                   | TryIt                                                                                                                                  | Status |
 | --- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
