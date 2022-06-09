@@ -39,4 +39,20 @@ In this repo I am uploading my solutions for [Striver SDE Sheet](https://takeufo
 
 </div>
 
+<div>
+
+<details>
+
+<summary style="font-size: 1em">Day 3</summary>
+
+| Sr  | [Problems](./Day%202/README.md)                                                                                   | TryIt                                                                                                                                  | Status |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1  | [Rotate Matrix](./Day%203/rotate-matrix.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotate-image/)                           | ✅     |
+| 2  | [Merge Overlapping Subintervals](./Day%203/merge-overlapping-subintervals.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/merge-intervals/)                           | ✅     |
+| 3  | [Merge two sorted arrays without using extra space](./Day%203/merge-without-extra-space.md)                                                   | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/merge-sorted-array/)                           | ✅     |
+
+</details>
+
+</div>
+
 </details>
